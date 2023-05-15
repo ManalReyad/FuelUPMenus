@@ -1,0 +1,27 @@
+@font-face {
+  font-family: gtRegular;
+  src: url("./assets/fonts/GT-Walsheim-Pro-Regular.ttf");
+}
+
+@font-face {
+  font-family: gtLight;
+  src: url("./assets/fonts/GT-Walsheim-Pro-Light.ttf");
+}
+
+@font-face {
+  font-family: gtBold;
+  src: url("./assets/fonts/GT-Walsheim-Pro-Bold.ttf");
+}
+
+@font-face {
+  font-family: gtMeduim;
+  src: url("./assets/fonts/GT-Walsheim-Pro-Medium.ttf");
+}
+@font-face {
+  font-family: gtOblique;
+  src: url("./assets/fonts/GT-Walsheim-Pro-Ultra-Bold-Oblique.ttf");
+}
+@font-face {
+  font-family: gtUltraBold;
+  src: url("./assets/fonts/GT-Walsheim-Pro-Ultra-Bold.ttf");
+}

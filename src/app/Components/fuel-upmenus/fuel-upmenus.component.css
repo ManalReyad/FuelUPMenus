@@ -1,0 +1,71 @@
+.menuContainer
+{
+  width: 360px;
+  background-color: #9a28cd;
+}
+.logo-title-container
+{
+  position: absolute;
+  left: 55px;
+}
+.center-all
+{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.space {
+  height: 30px;
+}
+.content
+{
+  width: 360px;
+  height: 191px;
+  background: #FFE42C;
+ border-radius: 0px 0px 95.5px 0px;
+
+}
+.logo
+{
+  Width: 128.69px;
+  Height:27px;
+  margin-right: auto;
+}
+.title
+{
+font-family: gtRegular;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+color: #9A28CD;
+text-align: center;
+margin-top: 18px;
+}
+.restaurantImageContainer
+{
+  width: 238px;
+  height: 156px;
+  border-radius: 6px 6px 0px 0px;
+}
+.menuBtn
+{
+  font-family: gtRegular;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  width: 238px;
+  height: 51px;
+  background: #FFE42C;
+  border-radius: 0px 0px 6px 6px;
+  border-style: none;
+}
+.last-image
+{
+  width: 144px;
+  height: 37px;
+}
+button
+{
+  cursor: pointer;
+}
